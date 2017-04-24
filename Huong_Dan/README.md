@@ -15,7 +15,7 @@
 
 [5. CÁCH TIẾP CẬN NỘI DUNG MÔN HỌC](#5)
 
-#### 1. Mô tả môn học <a name = "1"></a>
+####1. Mô tả môn học <a name = "1"></a>
 
  - Chúng ta sẽ tập trung vào tầng 3(NetWork) và tầng 2(Datalink) trong mô hình OSI.
  - Tầng **network**: là nơi tìm đường đi tốt nhất cho gói tin đựa trên địa chỉ IP thông qua hoạt động của thiết bị định tuyến (router).
@@ -34,7 +34,7 @@
 
  - **Kết thúc** khóa học, sinh viên có thể xây dụng hệ thống mạng LAN hoàn chỉnh, đáp ứng các yêu cầu của một mô hình mạng như tính **Sãn sàng**,tính **Bảo mật**, tính **dự phòng**. Bên cạnh đó là cách kết nối các LAN chi nhánh với nhau và với chi nhánh chính kết hợp internett bằng các tính năng trong các giao thức định tuyến.
 
-#### 2. Nội dung môn học <a name="2"></a>
+####2. Nội dung môn học <a name="2"></a>
 
 #####Bài 1: Tổng quan về vấn đề định tuyến
 
